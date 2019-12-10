@@ -1,0 +1,12 @@
+public class bilanganngawur {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        for(int x = 5; x <= 50; x += 5){
+            System.out.print( x + " ");
+        }
+    }
+    
+}
